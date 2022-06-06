@@ -4,5 +4,10 @@ public class test1 {
         System.out.println("1 = " + 2);
 
         System.out.println("5465");
+        System.out.println("5465");
+        System.out.println("5465");
+        System.out.println("5465");
+        System.out.println("5465");
+        System.out.println("5465");
     }
 }
